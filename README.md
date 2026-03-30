@@ -28,7 +28,7 @@ Dorothy Demetracopolou Lee (1905–1975) published "Lineal and Nonlineal Codific
 
 Neither Dorothy Lee nor Otis Hamilton Lee had the formal instrument to name what they were each approaching from their different directions. The instrument is:
 
-$$Z(X) = \int_A \exp(-H(a;\, X)) \, da \quad \text{(#P-hard)}$$
+$$Z(X) = \int_A \exp(-H(a;\, X)) \, da \quad \text{(P-hard)}$$
 
 The formal claim of CODEX: Dorothy Lee's distinction between lineal and nonlineal codifications of reality (1950) is the pre-formal linguistic-anthropological identification of the difference between **Markov chain inference** (lineal codification: $P(a_t \mid a_{t-1})$) and **full Gibbs conditioning** (nonlineal codification: $P(a \mid X_{t-1}) = \exp(-H(a;\, X_{t-1})) / Z(X_{t-1})$). The empirical finding — documented across Wintu, Hopi, Trobriand, and the Dreaming traditions by four independent researchers — that nonlineal codification is a genuine, internally consistent mode of collective intelligence is the anthropological proof that Gibbs-distributed conditioning on $X_{t-1}$ as a simultaneous whole is not an abstraction. It is an empirically attested, systematically transmitted mode of collective cognition that predates formal AI systems by at least 65,000 years.
 
